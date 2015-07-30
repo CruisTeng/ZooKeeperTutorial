@@ -1,1 +1,4 @@
-change the file is simple & quick
+<<<<<<< HEAD
+=======
+change the file is simple and quick
+>>>>>>> feature1
